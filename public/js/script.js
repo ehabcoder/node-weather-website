@@ -21,10 +21,6 @@
 // });
 
 
-const fetchWeather = (address) => {
- 
-}
-
 const address = document.querySelector('.form');
 const searchElement = document.querySelector('#address');
 const message1 = document.getElementById('message-1')
